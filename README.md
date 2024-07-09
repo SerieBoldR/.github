@@ -1,4 +1,4 @@
-# La série *Un grand bol d'R*
+# Série *Un grand bol d'R*
 
 La série ***UnGrand Bol d'R*** regroupe plusieurs manuels sur R sous la direction de [Philippe Apparicio](https://www.usherbrooke.ca/recherche/fr/specialistes/details/philippe.apparicio) (professeur titulaire, [Département de géomatique appliquée](https://www.usherbrooke.ca/geomatique/) de l'[Université de Sherbrooke](https://www.usherbrooke.ca/)) et de Jérémy Gelb (conseiller en science des données à l'[Autorité régionale de transport métropolitain](https://www.artm.quebec/a-propos-de-l-artm/mission/)).
 
