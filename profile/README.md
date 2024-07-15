@@ -12,12 +12,12 @@ Ces manuels sont intégralement écrits avec [Quarto](https://quarto.org/). À c
   <tr>
     <td style="text-align:center">
       <a href="https://serieboldr.github.io/MethodesQuantitatives/">
-        <img src="Couverture1.png" width="100%">
+        <img src="CouvertureMethoQuant.png" width="100%">
       </a>
     </td>
     <td style="text-align:center">
       <a href="https://serieboldr.github.io/MethodesAnalyseSpatiale/">
-        <img src="Couverture2.png" width="100%">
+        <img src="CouvertureLivreAnalyseSpatiale.png" width="100%">
       </a>
     </td>
   </tr>
